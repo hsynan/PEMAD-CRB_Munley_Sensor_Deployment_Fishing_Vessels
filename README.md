@@ -1,7 +1,7 @@
 # Evaluation of collaborative methods of subsurface temperature monitoring aboard commercial fishing vessels in the Mid-Atlantic Bight
 ## Description 
 This repository contains the data and code used to create the figures and information for Munley et al (in prep): Evaluation of collaborative methods of subsurface temperature monitoring aboard commercial fishing vessels in the Mid-Atlantic Bight. 
-## Repo 
+## Repo set up 
 * /data: contains raw data (csv) from the evaluated sensors
 * /code: contains reproducible code to process, visualize, create the figures in the short communication. 
 ## Disclaimer
